@@ -1,0 +1,13 @@
+body {
+	background-color: #000081;
+	color: white;
+	font-size: 22px;
+	font-style: italic;
+}
+
+#ramka {
+	border: 5px outset #ffA089;
+	width: 450px;
+	height: 500px;
+	padding-left: 5px;
+}
